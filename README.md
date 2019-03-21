@@ -1,6 +1,9 @@
 # PlanetHoster API
 Librairie en Go pour l'API de PlanetHoster.
 
+#Obsolète
+Cette librairie n'est plus supporté.
+
 ##Documentation
 La documentation est disponible sur le lien suivant en Français et en Anglais: [APIDOC](http://apidoc.planethoster.net/index.php?title=Main_Page)
 
